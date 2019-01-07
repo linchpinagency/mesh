@@ -43,7 +43,7 @@ class Mesh_Templates_Duplicate {
 	 *
 	 * @return string
 	 */
-	function duplicate_sections( $template_id, $post_id, $include_drafts ) {
+	function duplicate_sections( $template_id, $post_id, $include_drafts = false ) {
 
 		$template_id = absint( $template_id );
 		$template_post = get_post( $template_id );
