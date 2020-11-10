@@ -15,7 +15,7 @@
     "grunt-sass": "^3.0.2",
     "grunt-wp-i18n": "^1.0.2",
     "matchdep": "^2.0.0",
-    "node-sass": "^4.10.0"
+    "node-sass": "^4.13.1"
   },
   "keywords": [
     "linchpin",
